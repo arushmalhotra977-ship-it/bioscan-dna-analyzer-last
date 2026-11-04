@@ -1,2 +1,2 @@
-# bioscan-dna-analyzer-last
+index.html
 Comparison of Human DNA
